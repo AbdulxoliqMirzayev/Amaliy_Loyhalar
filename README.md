@@ -1,4 +1,4 @@
-# Amaliy_Loyhalar
+# Avia_prediction
 
 Airfare Price Prediction
 This project is focused on predicting airfare prices using machine learning techniques. The model is trained using historical flight data and applies a RandomForestRegressor to predict future prices. The pipeline is built using numerical and categorical preprocessing techniques, and the final predictions are stored in a CSV file for evaluation or further use.
